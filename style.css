@@ -128,36 +128,6 @@ h2 {
     text-align: center;
 }
 
-.disclamer2-center {
-    display: flex;
-    justify-content: center;
-    padding-top: 3rem;
-}
-
-.disclamer2 {
-    text-align: left;
-    padding-top: 3rem;
-    padding-right: 3rem;
-    padding-left: 3rem;
-    font-size: large;
-    border-radius: 15px;
-    display: inline-block;
-    border: 6px solid;
-    max-width: 100%;
-    padding: 10px 20px;
-    background-color: #fff;
-    list-style-position: inside;
-    text-wrap: nowrap;
-    overflow-y: auto;
-}
-
-.disclamer2 a {
-    text-decoration: none;
-    color: rgb(0, 0, 0);
-}
-
-
-
 .email-center {
     display: grid;
     justify-content: center;
